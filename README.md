@@ -2,9 +2,9 @@
     <br>
     <br>
     <h2>
-    Nesse projeto foi utilizadoo HTML e o CSS, projeto totalmente responsivo e fluido.
+    Projeto totalmente responsivo e fluido.
     <p>esse projeto é fruto dos estudos no <a href="https://rodolfomori.com.br/devclub-comercial/">Devclub</a>.</p>
-    Nesse projeto foram usadas as seguintes ferramentas:
+   Foram usadas as seguintes ferramentas:
         <br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
         <br>
